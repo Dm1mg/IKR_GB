@@ -1,0 +1,2 @@
+1190 [main] INFO  com.max.BookingServiceTest - Тест: успешное бронирование при доступном слоте
+1211 [main] INFO  com.max.BookingServiceTest - Тест: ошибка бронирования при занятости слота
